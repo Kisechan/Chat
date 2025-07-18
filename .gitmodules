@@ -1,0 +1,6 @@
+[submodule "Chat-Frontend"]
+	path = Chat-Frontend
+	url = git@github.com:Kisechan/Chat-Frontend.git
+[submodule "Chat-Backend"]
+	path = Chat-Backend
+	url = git@github.com:Kisechan/Chat-Backend.git
